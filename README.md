@@ -17,5 +17,6 @@ This is a simple Gradle project with Build Scan integration.
 ```
 
 ### Features
-Build Scan enabled
-Basic Gradle setup
+- Build Scan enabled
+- Basic Gradle setup
+- Automated CI pipeline with GitHub Actions
