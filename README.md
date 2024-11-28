@@ -5,9 +5,10 @@ This is a simple Gradle project with Build Scan integration.
 ### How to Run
 
 1. Clone the repository:
-   ``` git clone https://github.com/moatazeldebsy/gradle-app.git ```
 
-2. Build and run the project:
+``` git clone https://github.com/moatazeldebsy/gadle-app.git ```
+
+3. Build and run the project:
 
 ```
 ./gradlew build 
